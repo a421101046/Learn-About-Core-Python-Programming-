@@ -40,5 +40,5 @@ print type(type(42))  # <type 'type'> type是所有类型的根,类型的默认�
 	代码,帧,跟踪记录,切片,省略对象,XRange对象
 	详细见文档
 	
-# 
+
 	
